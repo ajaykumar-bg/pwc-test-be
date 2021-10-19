@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "PWC test backend API",
 	"main": "index.js",
-	"repository": "https://github.com/ajaykumar-bg/MealsToGoDemo",
+	"repository": "https://github.com/ajaykumar-bg/pwc-test-be",
 	"author": "ajaykumar-bg",
 	"license": "MIT",
 	"scripts": {
