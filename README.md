@@ -1,6 +1,10 @@
-# Getting Started with PWC Test Backend app
+# PWC Test Backend app
 
 This project was developed using with [Express JS](https://expressjs.com/).
+
+### `yarn install`
+
+Run the command to install all dependencies.\
 
 ## Available Scripts
 
