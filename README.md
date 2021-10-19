@@ -4,7 +4,7 @@ This project was developed using with [Express JS](https://expressjs.com/).
 
 ### `yarn install`
 
-Run the command to install all dependencies.\
+Clone the repository & Run the above command to install all dependencies.
 
 ## Available Scripts
 
